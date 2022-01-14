@@ -1,0 +1,3 @@
+/Users/laubrey/CLionProjects/printf_bonuses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/laubrey/CLionProjects/printf_bonuses/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/laubrey/CLionProjects/printf_bonuses/cmake-build-debug/CMakeFiles/printf_bonuses.dir
